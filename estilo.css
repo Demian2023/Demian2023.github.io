@@ -8,5 +8,6 @@
 }
 
 .cajaTexto {
-    width: 400px;
+    min-width: 350px;
+    width: 50vw;
 }
